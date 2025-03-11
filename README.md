@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img src="/mnt/data/78D512FA-182A-40EC-933C-F5896AD153B4.png" width="100%" alt="Vuong Nguyen">
+<img src="https://github.com/quocvuong2000/quocvuong2000/blob/main/Screenshot%202025-03-11%20at%2012.25.56.png" width="100%" alt="Vuong Nguyen">
 
 ### Hi! I'm Vuong Nguyen, A Web Developer 🚀
 A skilled Front-end Developer with **4 years of experience** in **ReactJS and NextJS**, specializing in **scalable e-commerce and booking platforms**. Focused on **user experience and performance optimization**, I am also capable of handling full-stack tasks as needed. Dedicated to mastering new technologies, I am committed to enhancing customer experiences.
